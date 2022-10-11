@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNRFAZVeV3GU8z/ijOyDazc/osLkHOdR60oS+slZ7neIK/YoOFgYjNxF0MVCAGQoj4jl4pT0/c5ZY7WKzhmVUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\idavee\\source\\repos\\projectFinal\\ProjectFinal\\ProjectFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idavee\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
